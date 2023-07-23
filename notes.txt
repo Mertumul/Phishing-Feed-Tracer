@@ -1,0 +1,10 @@
+dyna conf   ---> done
+url ler const olmalı  ---> done
+kodları ayır ---> done
+context manager --> done
+precommit mypy --> done
+gereksiz kod kullanımı fixlenecek --> done 
+bulk insert -->done
+phistank  --> done 
+fix return type and comment
+dockerda poetry kullan 
