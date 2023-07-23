@@ -6,5 +6,5 @@ precommit mypy --> done
 gereksiz kod kullanımı fixlenecek --> done 
 bulk insert -->done
 phistank  --> done 
-fix return type and comment
+fix return type and comment -->done
 dockerda poetry kullan 
