@@ -1,8 +1,8 @@
 [database]
-host = "localhost"
-user = "postgres"
-password = "postgres"
-database = "PhishingSite"
+host = "test"
+user = "test"
+password = "test"
+database = "test"
 
 [feeds]
 usom_feed = "https://www.usom.gov.tr/url-list.txt"
@@ -16,7 +16,7 @@ phishtank_feed = "https://data.phishtank.com/data/online-valid.csv"
 
 
 [version]
-value = "3"
+value = "test"
 
 [services.app]
 [ports.app]
@@ -24,11 +24,11 @@ app = 8000
 
 [services.app.environment.app]
 DB_HOST = "db"
-DB_USER = "postgres"
-DB_PASSWORD = "postgres"
-DB_NAME = "PhishingSite"
+DB_USER = "test"
+DB_PASSWORD = "test"
+DB_NAME = "test"
 
 [services.db.environment.db]
-POSTGRES_USER = "postgres"
-POSTGRES_PASSWORD = "postgres"
-POSTGRES_DB = "PhishingSite"
+POSTGRES_USER = "test"
+POSTGRES_PASSWORD = "test"
+POSTGRES_DB = "test"
