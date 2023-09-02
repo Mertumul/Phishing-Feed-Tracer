@@ -57,6 +57,4 @@ To get started with this project, follow these steps:
 3. Set up the project configuration, including database connections.
 4. Run the FastAPI server to start monitoring phishing feeds.
 
-Detailed instructions and examples can be found in the project documentation.
-
 
